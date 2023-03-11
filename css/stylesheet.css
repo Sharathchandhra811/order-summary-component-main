@@ -1,0 +1,119 @@
+body{
+   
+
+    
+    background-color:#E0E8FF;
+}
+.main{
+    margin: auto;
+    background-color: white;
+    border-radius: 7%;
+    height: 550px;
+    width: 360px;
+    position: relative;
+    top: 170px;
+}
+.mainimg{
+    width: 100%;
+    height: 33%;
+    border-top-right-radius: 28px;
+    border-top-left-radius: 28px;
+}
+.text{
+    text-align: center;
+    position: relative;
+    top: 10px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 15px;
+}
+.price{
+    position: relative;
+    left: 30px;
+    height: 50px;
+    width: 300px;
+    border-radius: 9px;
+    top: 27px;
+    text-align: center;
+}
+.cost{
+    text-align: center;
+    position: relative;
+    bottom: 75px;
+    right: 46px;
+    color: grey;
+    
+    
+    
+}
+.plan{
+    position: relative;
+    right: 30px;
+    font-family: 'Red Hat Display', sans-serif;
+    bottom: 55px;
+}
+.music{
+    position: relative;
+    right: 119px;
+    top: 5px;
+    height: 40px;
+    width: 40px;
+}
+.change{
+    position: relative;
+    bottom: 120px;
+    font-family: 'Red Hat Display', sans-serif;
+    left: 115px;
+    font-weight: bold;
+    
+}
+p{
+    color: grey;
+}
+.button1{
+    background-color: blue;hsl(245, 75%, 52%);
+    
+    position: relative;
+    left: 29px;
+    top: 58px;
+    height: 40px;
+    width: 300px; 
+    border-radius: 9px;
+    color: white;
+    
+    
+}
+.button1:active{
+    background-color: rgb(59, 70, 230);
+}
+
+   
+
+}
+.payment{
+    font-family: 'Red Hat Display', sans-serif;
+    background-color: red
+    position: relative;
+    bottom: 2px;
+    
+
+
+}
+
+.cancle{
+    font-family: 'Red Hat Display', sans-serif;
+    position: relative;
+    top: 79px;
+    left: 130px;
+    background-color: white;
+    border: 0px;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 25px;
+}
+.whole{
+    margin: auto;
+    position: relative;
+    bottom: 450px;
+}
